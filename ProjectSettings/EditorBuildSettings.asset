@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/RaumInit.unity
+    guid: 4e4c75c0c57c4564cac0e394b844eb85
+  - enabled: 1
+    path: Assets/Scenes/RaumTutorial.unity
+    guid: 2d3c520a5fe67c7449430cb6b7debe29
+  - enabled: 1
+    path: Assets/Scenes/CED_anatomy.unity
+    guid: dfe77d195431d694b9a9cfa14f3f2375
+  - enabled: 1
+    path: Assets/Scenes/CED_CED.unity
+    guid: b5bf0ba67d2808045925e5107a8c3c29
+  - enabled: 1
+    path: Assets/Darm/GrabDarm.unity
+    guid: c7d45509605b2904e906d95cc3494478
+  - enabled: 1
+    path: Assets/Darm/Darm.unity
+    guid: f845b2d7678045c419b7806bb5fe3b16
+  - enabled: 0
+    path: Assets/Scenes/Raum1.unity
+    guid: 93706f73aa5bd114591224f04629a929
+  - enabled: 0
+    path: Assets/Scenes/Raum2.unity
+    guid: 635cc31620eaa9a4a99a2b0e754d2c66
+  - enabled: 0
+    path: Assets/Scenes/Raum3.unity
+    guid: 10e02a1fc3d359a4390d5debfb62854e
+  - enabled: 0
+    path: Assets/Scenes/Raum4.unity
+    guid: 5755c104588fa2545893781ea0a904bf
+  - enabled: 0
+    path: Assets/Scenes/Raum5.unity
+    guid: f722a26f56948464783f25a8b36b486e
+  - enabled: 0
+    path: Assets/Scenes/Raum6.unity
+    guid: 4d180a14089848641997b259f06cee1a
+  - enabled: 0
+    path: Assets/Scenes/RaumFaelle.unity
+    guid: dd2a734949593fa41b03f5e241b23719

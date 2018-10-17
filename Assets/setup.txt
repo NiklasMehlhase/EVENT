@@ -1,0 +1,17 @@
+Set up the tag "EnableOnChoice" (Edit -> Project Settings -> Tags and Layers)
+Set up inputs (Edit -> Project Settings -> Input):
+	Use Gravity=0, Dead=0 and Sensitivity=1 for all
+	LeftTrackpadPress (for Vive use "Positive Button" = "joystick button 8")
+	RightTrackpadPress (for Vive use "Positive Button" = "joystick button 9")
+	LeftTrackpadTouch (for Vive use "Positive Button" = "joystick button 16")
+	RightTrackpadTouch (for Vive use "Positive Button" = "joystick button 17")
+	RightControllerTrigger (for Vive use "Axis" = 10th axis)
+	LeftControllerTrigger (for Vive use "Axis" = 9th axis)
+	RightControllerGrip (for Vive use "Axis" = 12th axis)
+	LeftControllerGrip (for Vive use "Axis" = 11th axis)
+	RightTrackpadX (for Vive use "Axis" = 4th axis)
+	RightTrackpadY (for Vive use "Axis" = 5th axis)
+	LeftTrackpadY (for Vive use "Axis" = Y axis)
+	LeftTrackpadX (for Vive use "Axis" = X axis)
+	LeftMenu (for Vive use "Positive Button" = "joystick button 2")
+	RightMenu (for Vive use "Positive Button" = "joystick button 0")
