@@ -1,5 +1,5 @@
-# EtUVPreTool
-Easy To Use Vr PREsentation Tool
+# Easy VR Education Tool (EVENT)
+Easy VR Education Tool = EVENT
 Easy to use – hard to pronounce.
 
 German:
