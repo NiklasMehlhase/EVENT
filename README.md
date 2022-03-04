@@ -1,29 +1,32 @@
-# Easy VR Education Tool (EVENT)
-Easy VR Education Tool = EVENT
-Easy to use – hard to pronounce.
+The quantities of information that a medical student needs to know keep expanding every year. New teaching methods are needed in order to overcome this problem and help students use the time they spend studying more effectively.
 
-German:
-Unity basiertes Tool zum Erstellen von Präsentationen im VR.
-Nutzung zur VR-basierten Lehre und Weiterbildung an der Uni-, bzw. Uniklinik Ulm.
+Virtual reality (VR) represents a computer-generated environment that allows a high degree of immersion, as it provides perception of life-sized objects and an ability to move freely and experience the virtual environment, with 360° head movements. The introduction of commercially available low-cost head-mounted displays (HMDs) in 2014 led to widespread implementation of these techniques in various fields of medical treatment and education. 
+
+In this research project, we are examining the role of VR education in improving medical knowledge. But the software can be applied to other VR presentations as well. 
+
+In collaboration with Niklas Mehlhase, we have developed a tool that can be used to easily generate presentations in VR using voice recordings, 3D objects, tables, images, and videos. 
+
+The great thing about this software that it can be used without programming skills.
+
+It's called EVENT (Easy VR EducatioN Tool). It is open source, works with the HTC VIVE, Oculus Quest 1 and 2
+
+More information 
+www.ukw.de/inexen 
 
 Features:
-* Komplette Präsentation in 3D möglich
-* Graphische Oberfläche
-* Keine Programmierkenntnisse nötig
-* Einbau von Objekten: Videos, Bildern, Tabellen, Texten und Ton
-* Ein- und Ausblenden von Objekten in gewünschter Reihenfolge
-* Simultaner Audiokommentar zu jedem Objekt einstellbar
-* Quizze als Lernkontrolle: Auswahlquiz (Multiple Choice), Zeigequiz, Sortierquiz
-* Präsentation mittels Controller steuerbar: Pause, Vor- und Rückwärtsspulen, Zeigefunktion
-* Benutzer kann Lerntempo bestimmen
-* Option, dass Lektion erst fortfährt wenn der Benutzer Präsentation im Sichtfeld hat
-* Auswahlmenu der Lektionen
+-	Generate a complete presentation in VR
+-	Works with HTC VIVE, Quest 1 and 2
+-	Graphical user interface
+-	No need for programming skills
+-	Object for the VR presentation includes videos, 3D objects, tables, images, audio and videos
+-	Let objects appear and disappear at defined time points
+-	Let the presentation only go on if user focuses on a defined area
+-	Use audio to accompany objects that appear or disappears
+-	Lights dims automatically when a video is played
+-	Use quizzes to assure learning success (multiple choice, point quiz, sort quiz)
+-	Presentation can be controlled including pause, forward and rewind button
+-	User can learn at their own pace
+-	Menu to choose between learning scenarios
 
-Beispielvideo für VR-Präsentation
+Example for a VR presentation generated with EVENT
 
-[![Beispielvideo](http://img.youtube.com/vi/83JD6BkaEAU/0.jpg)](http://www.youtube.com/watch?v=83JD6BkaEAU)
-
-
-English:
-Tool for generation of VR presentations in Unity.
-Further details coming soon.
