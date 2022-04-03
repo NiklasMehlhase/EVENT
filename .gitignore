@@ -8,7 +8,7 @@
 /[Ll]ibrary/
 sysinfo.txt
 *.stackdump
-/Assets/AssetStoreTools*
+/SteamVR/Assets/AssetStoreTools*
 *.apk
 *.unitypackage
  
