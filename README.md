@@ -1,3 +1,5 @@
+# EVENT (Easy VR EducatioN Tool)
+
 The quantities of information that a medical student needs to know keep expanding every year. New teaching methods are needed in order to overcome this problem and help students use the time they spend studying more effectively.
 
 Virtual reality (VR) represents a computer-generated environment that allows a high degree of immersion, as it provides perception of life-sized objects and an ability to move freely and experience the virtual environment, with 360° head movements. The introduction of commercially available low-cost head-mounted displays (HMDs) in 2014 led to widespread implementation of these techniques in various fields of medical treatment and education. 
@@ -10,8 +12,7 @@ The great thing about this software that it can be used without programming skil
 
 It's called EVENT (Easy VR EducatioN Tool). It is open source, works with the HTC VIVE, Oculus Quest 1 and 2
 
-More information 
-www.ukw.de/inexen 
+More information at www.ukw.de/inexen
 
 Features:
 -	Generate a complete presentation in VR
